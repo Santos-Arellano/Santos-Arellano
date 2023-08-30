@@ -30,8 +30,6 @@
 
 <br />
 
-<br />
-
 ## 🛠 &nbsp;Tech Stack:
 
 ### 💻 &nbsp;Languages:
