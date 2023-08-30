@@ -20,13 +20,15 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>👋 &nbsp;Hi there! I'm Santos, a Quant Analyst intern at a High Frequency Trading firm.</p>
-<p>🔍 &nbsp;I'm actively seeking roles as a Quant Developer or Software Developer, with a focus on low latency and Quant projects.</p>
-<p>🚀 &nbsp;My technical skillset includes Rust, C++, Python, and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
-<p>🌱 &nbsp;Currently, I'm working on building my expertise in the field of Quantitative Finance and expanding my knowledge of advanced algorithms and data structures.</p>
-<p>💼 &nbsp;In the past, I have worked as a Google Summer of Code Intern at GNOME Organization and as a Backend Developer for Nametrade.</p>
-<p>📄 &nbsp;Please check out my <a href="Professional Resume.pdf">Resume</a> for more information about my experience and skills.</p>
-<p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
+<p>👋 &nbsp;Hi there! I'm Santos Arellano, a web developer currently studying Computer Science at Monterrey Institute of Technology and Higher Education.</p>
+<p>🔍 &nbsp;I'm also a member of Solana Collective, passionate about web development and exploring innovative technologies.</p>
+<p>🚀 &nbsp;My technical skills include C++, JavaScript, python, and more, and I'm dedicated to leveraging these skills to create impactful web projects.</p>
+<p>🌱 &nbsp;Currently, I'm focused on advancing my knowledge in the field of web development and diving deeper into cutting-edge technologies.</p>
+<p>💼 &nbsp;I have a strong foundation in [Any specific areas or projects you've worked on], and I'm eager to contribute to the tech community.</p>
+<p>📄 &nbsp;For more details about my experience and skills, please check out my <a href="[Your Resume Link]">Resume</a>.</p>
+<p>🤝 &nbsp;I'm open to new opportunities and collaborations, so feel free to connect with me!</p>
+
+<br />
 
 <br />
 
