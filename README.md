@@ -9,18 +9,18 @@
   <a href="https://gitlab.gnome.org/amankrx/">
 		<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 	</a>
-	<a href="mailto:amankr1619@gmail.com">
+	<a href="mailto:arellanosantoso6@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=amankr1619&color=blueviolet&style=flat-square&label=Profile+Views" />
+	<img src="https://komarev.com/ghpvc/?username=Santos-Arellano1619&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>👋 &nbsp;Hi there! I'm Aman, a Quant Analyst intern at a High Frequency Trading firm.</p>
+<p>👋 &nbsp;Hi there! I'm Santos, a Quant Analyst intern at a High Frequency Trading firm.</p>
 <p>🔍 &nbsp;I'm actively seeking roles as a Quant Developer or Software Developer, with a focus on low latency and Quant projects.</p>
 <p>🚀 &nbsp;My technical skillset includes Rust, C++, Python, and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
 <p>🌱 &nbsp;Currently, I'm working on building my expertise in the field of Quantitative Finance and expanding my knowledge of advanced algorithms and data structures.</p>
