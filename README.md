@@ -59,12 +59,12 @@
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amankrx&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrx&hide_border=true&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Santos-Arellano&count_private=true&theme=dark&show_icons=true" alt="Santos-Arellano" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Santos-Arellano&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
 <p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amankrx&theme=dark&show_icons=true" alt="amankrx" />
+	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Santos-Arellano&theme=dark&show_icons=true" alt="Santos-Arellano" />
 </p>
 
 <hr />
