@@ -25,7 +25,7 @@
 <p>🚀 &nbsp;My technical skills include C++, JavaScript, python, and more, and I'm dedicated to leveraging these skills to create impactful web projects.</p>
 <p>🌱 &nbsp;Currently, I'm focused on advancing my knowledge in the field of web development and diving deeper into cutting-edge technologies.</p>
 <p>💼 &nbsp;I have a strong foundation in front-end and back-end web development, having worked on projects ranging from e-commerce websites to interactive web applications. I'm eager to contribute my skills and creativity to the tech community, collaborating on projects that make a positive impact.</p>
-<p>📄 &nbsp;For more details about my experience and skills, please check out my <a href="Professional Resume.pdf">Resume</a>.</p>
+<p>📄 &nbsp;For more details about my experience and skills, please check out my <a href="Professional Resume.pdf">Resume</a>
 <p>🤝 &nbsp;I'm open to new opportunities and collaborations, so feel free to connect with me!</p>
 
 <br />
