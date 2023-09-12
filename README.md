@@ -63,25 +63,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Santos-Arellano&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
-<p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Santos-Arellano&theme=dark&show_icons=true" alt="Santos-Arellano" />
-</p>
 
 <hr />
 
-## 📕 Pinned Repositories
-
-<p align="center">
-	<a href="https://github.com/amankrx/Declutter">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Declutter&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/Health">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/portfolio">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=portfolio&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/amankrx">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=amankrx&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-</p>
