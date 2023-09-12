@@ -60,7 +60,7 @@
 <br/>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Santos-Arellano&count_private=true&theme=dark&show_icons=true" alt="Santos-Arellano" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Santos-Arellano&hide_border=true&theme=dark&show_icons=true" />
+      <img width=43% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos-Arellano&theme=highcontrast&langs_count=10&layout=compact" />
 </p>
 
 
