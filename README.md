@@ -59,8 +59,8 @@
 
 <br/>
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Santos-Arellano&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blueberry" alt="Santos-Arellano" />
-      <img width=29% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos-Arellano&layout=compact" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Santos-Arellano&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blueberry" alt="Santos-Arellano" />
+      <img width=39% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos-Arellano&layout=compact" />
 </p>
 
 
