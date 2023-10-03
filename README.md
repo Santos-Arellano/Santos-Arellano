@@ -28,7 +28,12 @@
 <p>📄 &nbsp;For more details about my experience and skills, please check out my <a href="Professional Resume.pdf">Resume</a>
 <p>🤝 &nbsp;I'm open to new opportunities and collaborations, so feel free to connect with me!</p>
 
-<br />
+<p align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+<hr />
+
 
 ## 🛠 &nbsp;Tech Stack:
 
@@ -51,9 +56,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![MatLab](https://img.shields.io/badge/-MatLab-05122A?style=flat&logo=matlab)
+
+
 
 
 <hr />
+
 
 ## 📈 Statistics
 
