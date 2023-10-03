@@ -87,7 +87,7 @@
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
   
-### <img src="design.gif" width="30"/>Graphic design
+### <img src="design.jpg" width="30"/>Graphic design
 
 <p align="left">
 	
