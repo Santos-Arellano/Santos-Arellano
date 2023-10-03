@@ -35,34 +35,131 @@
 <hr />
 
 
-## 🛠 &nbsp;Tech Stack:
+### <img src="https://www.logigroup.com/images/modules/react.gif" width="30"/> Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=white">
+  </a> 
+  &emsp;
 
-### 💻 &nbsp;Languages:
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+  ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
+  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+  
+  
+</p>
 
+### <img src="https://i.gifer.com/NY0y.gif" width="30"/> Backend Development
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScrpt-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Matlab](https://img.shields.io/badge/-MatLab-05122A?style=flat&logo=matlab)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 
+### <img src="https://i.gifer.com/NY0y.gif" width="30"/> Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>  
+    &emsp;
+     <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2313aa52.svg?logo=mongodb&logoColor=white"></a>  
+    &emsp;
+    <a href="https://aws.amazon.com/es/"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23232f3e.svg?logo=AWS&logoColor=white"></a>  
+ &emsp; 
+</p>
 
-### 🚀 &nbsp;Technologies:
-
-![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![MatLab](https://img.shields.io/badge/-MatLab-05122A?style=flat&logo=matlab)
+  
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Graphic design
+<p align="left">
+	
+ ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+	
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
+	</a>
+    &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+&emsp; 
+ </p>
 
-
+### <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" width="30"/>Mobile App
+<p align="left">
+	&emsp; 
+ 
+ </p>
 
 
 <hr />
 
+### Others
+
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
+![MatLab](https://img.shields.io/badge/-MatLab-05122A?style=flat&logo=matlab)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+<hr />
+
+## 👨‍🚀 Upcoming Learning
+
+I plan to learn the following technologies soon:
+
+<p align="left">
+	 <a href="www.visothipong.xyz" target="_blank">
+    <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=react&logoColor=white">
+	</a>
+	&emsp; 
+<a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+  <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> 
+  &emsp;
+   <a href="https://ant.design/" target="_blank"> 
+    <img alt="Antd Design" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png?style=flat&logo=materialui&logoColor=white"  width="30"/>
+  </a>
+&emsp;
+ <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="materialui" src="https://img.shields.io/badge/MaterialUI-%231976d2.svg?style=flat&logo=materialui&logoColor=white"/>
+  </a>
+&emsp;
+ <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue%20-%2320232a.svg?logo=vuejs&logoColor=white">
+  </a> 
+   &emsp;
+
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+</p>
+
+<hr />
 
 ## 📈 Statistics
 
@@ -71,6 +168,11 @@
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Santos-Arellano&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blueberry" alt="Santos-Arellano" />
       <img width=39% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos-Arellano&layout=compact" />
 </p>
+
+
+<hr />
+
+
 
 
 <hr />
