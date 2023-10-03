@@ -35,7 +35,7 @@
 <hr />
 
 
-### <img src="https://www.logigroup.com/images/modules/react.gif" width="30"/> Frontend Development
+### <img src="Frontend.jpg" width="40"/> Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -64,13 +64,13 @@
   
 </p>
 
-### <img src="https://i.gifer.com/NY0y.gif" width="30"/> Backend Development
+### <img src="backend.jpg" width="40"/> Backend Development
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 
 
-### <img src="https://i.gifer.com/NY0y.gif" width="30"/> Databases & Cloud Hosting
+### <img src="database.jpg" width="40"/> Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
@@ -87,7 +87,7 @@
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
   
-### <img src="design.jpg" width="30"/>Graphic design
+### <img src="design.jpg" width="40"/>Graphic design
 
 <p align="left">
 	
@@ -111,7 +111,7 @@
 &emsp; 
  </p>
 
-### <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" width="30"/>Mobile App
+### <img src="Mobile.jpg" width="40"/>Mobile App
 <p align="left">
 	&emsp; 
  
