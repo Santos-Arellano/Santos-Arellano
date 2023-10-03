@@ -56,6 +56,7 @@
   </a>
   &emsp;
   
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
   ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
