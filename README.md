@@ -117,7 +117,7 @@
  
  </p>
 
-### Others
+### 🧐 Others
 
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
 ![MatLab](https://img.shields.io/badge/-MatLab-05122A?style=flat&logo=matlab)
