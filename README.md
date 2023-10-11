@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=Santos-Arellano1619&color=blueviolet&style=flat-square&label=Profile+Views" />
+	<img src="https://komarev.com/ghpvc/?username=Santos-Arellano&color=green" />
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me:
