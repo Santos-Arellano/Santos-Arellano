@@ -55,11 +55,13 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
+
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
   ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+  ![Node.js](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)
   
   
 </p>
@@ -133,6 +135,11 @@ I plan to learn the following technologies soon:
 
 <p align="left">
 	 <a href="www.visothipong.xyz" target="_blank">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%2320232a.svg?logo=rust&logoColor=white">
+	</a>
+	&emsp; 
+<p align="left">
+	 <a href="www.visothipong.xyz" target="_blank">
     <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=react&logoColor=white">
 	</a>
 	&emsp; 
@@ -154,7 +161,7 @@ I plan to learn the following technologies soon:
    &emsp;
 
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
 
 </p>
 
