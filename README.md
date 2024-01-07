@@ -111,6 +111,10 @@
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
 &emsp; 
+<a href="https://www.figma.com/" target="_blank"> 
+    <img alt="Figma" src="https://img.shields.io/badge/%20Figma-FF9A00?style=flat&logo=figma&logoColor=white"/>
+  </a> 
+  &emsp;
  </p>
 
 ### <img src="Mobile.jpg" width="40"/>Mobile App
