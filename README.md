@@ -112,7 +112,7 @@
   </a>
 &emsp; 
 <a href="https://www.figma.com/" target="_blank"> 
-    <img alt="Figma" src="https://img.shields.io/badge/%20Figma-FF9A00?style=flat&logo=figma&logoColor=white"/>
+    <img alt="Figma" src="https://img.shields.io/badge/%20Figma-8000FF?style=flat&logo=figma&logoColor=white"/>
   </a> 
   &emsp;
  </p>
